@@ -1,0 +1,98 @@
+body{
+    background-color: #3ebfff;
+}
+*{
+    margin:0px;
+    padding:0px;
+    font-family: "Barlow", sans-serif;
+}
+header{
+    padding:10px;
+    display:flex;
+    justify-content: space-between;
+    
+    
+}
+header li{
+    list-style: none;
+    color:white;
+}
+ul{
+    gap:20px;
+    display:flex;
+    justify-content:center;
+    padding:10px;
+}
+.white{
+    color:white;
+} 
+button{
+    width:75px;
+    height:25px;
+    border-radius: 8px;
+    border:none;
+    background-color: whitesmoke;
+}
+.arrow{
+    height:60px;
+    left:460px;
+    display: block;
+    position: absolute;
+
+}
+.white2{
+    color:white;
+    text-align: center;
+   
+ 
+}
+body{
+    background-image:url(image-header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+    
+    margin:0;
+    padding:0;
+    
+}
+.bckWhite{
+    height:300px;
+    background-color: white;
+    width:480px;
+   
+    text-align: center;
+    position: absolute;
+    top:316px;
+
+}
+.egg{
+    margin-top:100px;
+}
+.egg2{
+   
+
+    height:300px;
+    width:472px;
+    position:absolute;
+    left:480px;
+    top:316px;
+}
+.stand{
+    position: absolute;
+    height:300px;
+    width: 480px;
+    top:616px;
+}
+.white3{
+    background-color: white;
+    width:480px;
+    height:300px;
+    text-align: center;
+    position:absolute;
+    top:616px;
+    left:480px;
+}
+.cherry2{
+    
+}
