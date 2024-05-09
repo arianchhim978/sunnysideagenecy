@@ -35,7 +35,8 @@ button{
 }
 .arrow{
     height:60px;
-    left:460px;
+    left:50%;
+    right:50%;
     display: block;
     position: absolute;
 
@@ -63,7 +64,8 @@ body{
    
     text-align: center;
     position: absolute;
-    top:316px;
+    top:800px;
+    right:50%;
 
 }
 .egg{
@@ -75,24 +77,24 @@ body{
     height:300px;
     width:472px;
     position:absolute;
-    left:480px;
-    top:316px;
+    left:50%;
+    top:800px;
 }
 .stand{
     position: absolute;
     height:300px;
     width: 480px;
-    top:616px;
+    top:1200px;
 }
 .white3{
     background-color: white;
-    width:480px;
+    width:472px;
     height:300px;
     text-align: center;
     position:absolute;
-    top:616px;
-    left:480px;
+    top:1101px;
+   left:50%;
 }
 .cherry2{
-    
+
 }
